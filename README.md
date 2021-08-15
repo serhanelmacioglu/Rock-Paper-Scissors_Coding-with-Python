@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors_Coding-with-Python
+# Game: Rock, Paper, Scissors (Coding with Python)
